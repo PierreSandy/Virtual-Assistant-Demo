@@ -5,8 +5,9 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
+
 ## General info
-This project is simple Lorem ipsum dolor generator.
+IBM tWatson is a question-answering computer system capable of answering questions posed in natural language. 
 	
 ## Technologies
 Project is created with:
@@ -15,11 +16,4 @@ Project is created with:
 * IBM CLoud
 * IBM Watson Virtual Assistant
 	
-## Setup
-To run this project, use :
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
